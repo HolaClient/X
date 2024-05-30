@@ -15,7 +15,7 @@ HolaClient-X is the new series of HolaClient, designed specifically to support t
 
 ## ✨ Features
 
-* Please refer `FEATURES.md`.
+* Please refer `FEATURES.md`
 
 ## 📄 Documentation
 
